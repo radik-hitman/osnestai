@@ -1,0 +1,112 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css
+File Name: F:\www.ocnest.ai\npm\bootstrap-icons@1.11.3\font\bootstrap-icons.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/fonts/bootstrap-icons.woff2?dd67030699838ea613ee6dbda90effa6
+File Name: F:\www.ocnest.ai\npm\bootstrap-icons@1.11.3\font\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/fonts/bootstrap-icons.woff?dd67030699838ea613ee6dbda90effa6
+File Name: F:\www.ocnest.ai\npm\bootstrap-icons@1.11.3\font\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://www.ocnest.ai/
+File Name: F:\www.ocnest.ai\index.htm
+Content Type: text/html
+
+Uri: https://www.ocnest.ai/cursor-default.svg
+File Name: F:\www.ocnest.ai\cursor-default.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ocnest.ai/deepseek.svg
+File Name: F:\www.ocnest.ai\deepseek.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ocnest.ai/eth-colors-bottom.png
+File Name: F:\www.ocnest.ai\eth-colors-bottom.png
+Content Type: image/png
+
+Uri: https://www.ocnest.ai/eth-colors-top.png
+File Name: F:\www.ocnest.ai\eth-colors-top.png
+Content Type: image/png
+
+Uri: https://www.ocnest.ai/logo.webp
+File Name: F:\www.ocnest.ai\logo.webp
+Content Type: image/webp
+
+Uri: https://www.ocnest.ai/ollama.svg
+File Name: F:\www.ocnest.ai\ollama.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ocnest.ai/openai.png
+File Name: F:\www.ocnest.ai\openai.png
+Content Type: image/png
+
+Uri: https://www.ocnest.ai/stake.png
+File Name: F:\www.ocnest.ai\stake.png
+Content Type: image/png
+
+Uri: https://www.ocnest.ai/_next/image?url=%2Flogo.webp&w=48&q=75
+File Name: F:\www.ocnest.ai\_next\logo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ocnest.ai/_next/image?url=%2Flogo.webp&w=96&q=75
+File Name: F:\www.ocnest.ai\_next\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ocnest.ai/_next/static/chunks/4bd1b696-0b1c8b1c7805d23c.js
+File Name: F:\www.ocnest.ai\_next\static\chunks\4bd1b696-0b1c8b1c7805d23c.js
+Content Type: application/javascript
+
+Uri: https://www.ocnest.ai/_next/static/chunks/517-471f31079b881d50.js
+File Name: F:\www.ocnest.ai\_next\static\chunks\517-471f31079b881d50.js
+Content Type: application/javascript
+
+Uri: https://www.ocnest.ai/_next/static/chunks/750-5d548fb5394641e3.js
+File Name: F:\www.ocnest.ai\_next\static\chunks\750-5d548fb5394641e3.js
+Content Type: application/javascript
+
+Uri: https://www.ocnest.ai/_next/static/chunks/936-1efb1031bbb35faa.js
+File Name: F:\www.ocnest.ai\_next\static\chunks\936-1efb1031bbb35faa.js
+Content Type: application/javascript
+
+Uri: https://www.ocnest.ai/_next/static/chunks/app/layout-5f06caee60d27243.js
+File Name: F:\www.ocnest.ai\_next\static\chunks\app\layout-5f06caee60d27243.js
+Content Type: application/javascript
+
+Uri: https://www.ocnest.ai/_next/static/chunks/app/page-e78a511f702d979f.js
+File Name: F:\www.ocnest.ai\_next\static\chunks\app\page-e78a511f702d979f.js
+Content Type: application/javascript
+
+Uri: https://www.ocnest.ai/_next/static/chunks/main-app-a849309caff0f7ba.js
+File Name: F:\www.ocnest.ai\_next\static\chunks\main-app-a849309caff0f7ba.js
+Content Type: application/javascript
+
+Uri: https://www.ocnest.ai/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: F:\www.ocnest.ai\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://www.ocnest.ai/_next/static/chunks/webpack-6d31fbb8647fe0b7.js
+File Name: F:\www.ocnest.ai\_next\static\chunks\webpack-6d31fbb8647fe0b7.js
+Content Type: application/javascript
+
+Uri: https://www.ocnest.ai/_next/static/css/26e3d59f8e6d3a46.css
+File Name: F:\www.ocnest.ai\_next\static\css\26e3d59f8e6d3a46.css
+Content Type: text/css
+
+Uri: https://www.ocnest.ai/_next/static/media/142a1f21d125b4aa-s.p.woff2
+File Name: F:\www.ocnest.ai\_next\static\media\142a1f21d125b4aa-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.ocnest.ai/_next/static/media/3d171a857fb51073.woff2
+File Name: F:\www.ocnest.ai\_next\static\media\3d171a857fb51073.woff2
+Content Type: font/woff2
+
+Uri: https://www.ocnest.ai/_next/static/media/8f50587a91add7d1-s.woff2
+File Name: F:\www.ocnest.ai\_next\static\media\8f50587a91add7d1-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.ocnest.ai/_next/static/media/baba0933637e11ed.p.woff2
+File Name: F:\www.ocnest.ai\_next\static\media\baba0933637e11ed.p.woff2
+Content Type: font/woff2
+
